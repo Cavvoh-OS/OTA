@@ -1,4 +1,4 @@
-### JSON structure ###
+### JSON structure: ###
 ```
 {
   "response": [
